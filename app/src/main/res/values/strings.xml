@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PingPongLink</string>
+    <string name="device_name">PINGPONG</string>
+    <string name="air">AIR</string>
+    <string name="search_cube">Search Cube</string>
+    <string name="searching">Searching&#8230;</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="move_to_scratch">Go Scratch!</string>
+
+    <string name="red_do">Do</string>
+    <string name="green_re">Re</string>
+    <string name="blue_mi">Mi</string>
+    <string name="cyan_fa">Fa</string>
+    <string name="magenta_sol">Sol</string>
+    <string name="yellow_ra">Ra</string>
+    <string name="violet_si">Si</string>
+    <string name="orange_do">Do</string>
+</resources>

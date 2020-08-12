@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PingPongLink</string>
+    <string name="device_name">PINGPONG</string>
+    <string name="air">AIR</string>
+    <string name="search_cube">큐브 찾기</string>
+    <string name="searching">찾는중&#8230;</string>
+    <string name="disconnect">연결 해제</string>
+    <string name="move_to_scratch">스크래치로 이동!</string>
+
+    <string name="red_do">도</string>
+    <string name="green_re">레</string>
+    <string name="blue_mi">미</string>
+    <string name="cyan_fa">파</string>
+    <string name="magenta_sol">솔</string>
+    <string name="yellow_ra">라</string>
+    <string name="violet_si">시</string>
+    <string name="orange_do">도</string>
+</resources>
