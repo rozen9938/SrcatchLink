@@ -2,4 +2,4 @@
 
 Test
 
-LLK/Scratch 3.0 Bluetooth Link(UWP) conversion to Android OS ㅅ
+LLK/Scratch 3.0 Bluetooth Link(UWP) conversion to Android OS 
